@@ -1,0 +1,22 @@
+html{
+background-color:  lightslategray;
+
+}
+h1,p1{
+    font-size: 80px;
+}
+img{
+    width: 200px;
+    hight: 200px;
+
+
+}
+table ,td,th{
+      border: 2px solid black; 
+      border-collapse: collapse; 
+    }
+
+    th, td {
+      padding: 10px; 
+      text-align: center;
+    }
